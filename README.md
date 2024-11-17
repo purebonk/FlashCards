@@ -6,16 +6,17 @@ A responsive and interactive flashcard study tool built with **React.js**, **Jav
 
 
 ---
-
 ## Features
 
 - **Dynamic API Integration**: Fetches trivia questions and answers from the Open Trivia Database (https://opentdb.com/).
 - **Responsive Design**: Adapts to various screen sizes using a grid layout.
 - **Interactive Flip Animation**: Flip cards to reveal the answers with smooth 3D animations.
 - **Customizable Options**: Select categories and the number of questions dynamically.
+- **Add Custom Flashcards**: Optionally create your own flashcards with custom questions and answers.
+- **Clear Flashcards Feature**: Reset the flashcard deck with a single click for a fresh study session.
+- **Error Handling**: Gracefully manages incomplete or invalid inputs, ensuring a smooth user experience.
 - **Lightweight Styling**: Custom CSS styling for a clean, user-friendly interface.
 
----
 
 ## Technologies Used
 
