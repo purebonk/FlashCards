@@ -2,6 +2,9 @@
 
 A responsive and interactive flashcard study tool built with **React.js**, **JavaScript**, **HTML**, **CSS**, designed to help users learn and practice effectively. This application allows users to choose from a variety of questions and answers, flip flashcards, and interact with options seamlessly.
 
+![image](https://github.com/user-attachments/assets/30e3a806-ce83-4751-8bf3-0fbe42b56b09)
+
+
 ---
 
 ## Features
